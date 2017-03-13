@@ -1,0 +1,3 @@
+[submodule "web_admin/lib/commonlogic"]
+	path = web_admin/lib/commonlogic
+	url = https://github.com/otwo-miyamoto/test.git
